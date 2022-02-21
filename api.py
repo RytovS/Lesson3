@@ -12,4 +12,4 @@ dt_yesterday = dt - timedelta(days=1)
 print('Вчера', dt_yesterday)
 
 dt_ago = dt - timedelta(days=30) 
-print('Это было 30 дней назад', dt_ago)
+print(' было 30 дней назад', dt_ago)
